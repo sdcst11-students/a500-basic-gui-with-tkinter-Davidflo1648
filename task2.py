@@ -34,7 +34,7 @@ fbutton2=tk.Button(window,text="< Previous")
 fbutton3=tk.Button(window,text="Next >")
 
 nF1.grid()
-flabel1.grid(row=0,column=0,columnspan=3)
+flabel1.grid(row=1,column=0,columnspan=3)
 flabel2.grid(row=1,column=3)
 fbutton1.grid(row=0,column=4)
 fentry1.grid(row=0,column=5)
